@@ -155,7 +155,7 @@ And, if you need to delete the cluster too, you can [cluster-delete](https://git
 coldbrew cluster-delete tutorial
 ```
 
-<img src="https://raw.githubusercontent.com/coldbrewcloud/assets/master/coldbrew-cli/tutorial-meteor-cluster-delete.gif?v=1" width="800">
+<img src="https://raw.githubusercontent.com/coldbrewcloud/assets/master/coldbrew-cli/tutorial-nodejs-cluster-delete.gif?v=1" width="800">
 
 _*For the same reason, cluster delete can take long to finish._
 
