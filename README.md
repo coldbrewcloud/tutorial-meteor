@@ -14,7 +14,7 @@ Download the package for your system [here](https://github.com/coldbrewcloud/col
 
 ### AWS Account
 
-As you will be deploying your application on AWS, you will need an AWS account for sure. [Sign up](https://aws.amazon.com/) if you haven't yet, and get your [AWS access keys](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSGettingStartedGuide/AWSCredentials.html). You can pass AWS access keys to **coldbrew-cli** either in [environment variables](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Environment-Variables) or using [CLI flags](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Global-Flags), but we will assume that you set the follow environment variables throughout the turorial:
+As you will be deploying your application on AWS, you will need an AWS account for sure. [Sign up](https://aws.amazon.com/) if you haven't yet, and get your [AWS access keys](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSGettingStartedGuide/AWSCredentials.html). You can pass AWS access keys to **coldbrew-cli** either in [environment variables](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Environment-Variables) or using [CLI flags](https://github.com/coldbrewcloud/coldbrew-cli/wiki/CLI-Global-Flags), but we will assume that you set the follow environment variables throughout the tutorial:
 
 - `$AWS_ACCESS_KEY_ID`: AWS Access Key ID
 - `$AWS_SECRET_ACCESS_KEY`: AWS Secret Access Key
